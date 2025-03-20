@@ -54,3 +54,8 @@
   },
   "type": "module"
 }
+{
+  "scripts": {
+    "build": "solar-potential build --output public"
+  }
+}
